@@ -35,7 +35,7 @@ lista numerada
 
 
 Lista NO numerada   
-- primer lis  
+* primer lis  
 - segundi ele  
 - tercer elemeto   
 
