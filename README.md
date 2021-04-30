@@ -4,5 +4,5 @@
 ####### Encabezado de nivel 6
 
 
-*textoen itálica*  
+*textoen itálica*
 _otro texto en itálica_
