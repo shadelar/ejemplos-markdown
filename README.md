@@ -1,2 +1,2 @@
-# ejemplos-markdown
-Ejemplos de Markdown
+·Encabezado de nivel 1
+··Encabezado de nivel 2
