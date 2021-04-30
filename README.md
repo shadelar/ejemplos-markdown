@@ -35,8 +35,8 @@ lista numerada
 
 
 Lista NO numerada
--primer lis
--segundi ele
--tercer elemeto
+-primer lis  
+-segundi ele  
+-tercer elemeto  
 
 
