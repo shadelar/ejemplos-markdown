@@ -10,4 +10,5 @@ _otro texto en itálica_
 
 
 **Texto en negrita**    
-_otro Texto en negrita_
+__otro Texto en negrita__
+
