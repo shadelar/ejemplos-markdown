@@ -1,6 +1,7 @@
 # Encabezado de nivel 1
 ## Encabezado de nivel 2
 ....
+
 ####### Encabezado de nivel 6
 
 
@@ -23,4 +24,19 @@ Miguel de Cervantes (1605)
 
 <img src="https://gf0604-procesamientodatosgeograficos.github.io/2021i-tarea-01/img/ZiemannEtAlFig1.png" alt=¨imagen ejemplo" width="50"> 
                                                                                                                                         
+imagen en el sitio interno
 ![](ZiemannEtAlFig1.png)
+
+
+lista numerada
+1. Primier Elemento
+2. Segundo elemento
+3. tercero
+
+
+Lista NO numerada
+-primer lis
+-segundi ele
+-tercer elemeto
+
+
