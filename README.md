@@ -23,3 +23,4 @@ Miguel de Cervantes (1605)
 
 <img src="https://gf0604-procesamientodatosgeograficos.github.io/2021i-tarea-01/img/ZiemannEtAlFig1.png" alt=¨imagen ejemplo" width="50"> 
                                                                                                                                         
+![](ZiemannEtAlFig1.png)
