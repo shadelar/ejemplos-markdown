@@ -4,10 +4,10 @@
 ####### Encabezado de nivel 6
 
 
-*textoen itálica*
+*textoen itálica*  
 _otro texto en itálica_
 
 
 
-**Texto en negrita**  
+**Texto en negrita**    
 _otro Texto en negrita_
