@@ -34,9 +34,9 @@ lista numerada
 3. tercero
 
 
-Lista NO numerada
+Lista NO numerada   
 -primer lis  
 -segundi ele  
--tercer elemeto  
+-tercer elemeto   
 
 
